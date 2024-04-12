@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./gi-hng.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="giohang">
+      <div class="giohang-inner">
+        <div class="header-group">
+          <div class="header-group">
+            <div class="header-child3"></div>
+            <div class="header-child4"></div>
+            <div class="header-child5"></div>
+            <img class="location-icon2" alt="" src="./public/location@2x.png" />
+
+            <div class="header-child6"></div>
+            <img class="vector-icon2" alt="" src="./public/vector1.svg" />
+
+            <div class="bn-cn-tm1">Bạn cần tìm gì?</div>
+            <img
+              class="local-phone-icon1"
+              alt=""
+              src="./public/local-phone.svg"
+            />
+
+            <div class="gi-mua-hng-container1">
+              <p class="gi-mua-hng1">Gọi mua hàng</p>
+              <p class="gi-mua-hng1">1900.2345</p>
+            </div>
+            <div class="danh-mc1">Danh mục</div>
+            <div class="nng1">Đà Nẵng</div>
+            <div class="xem-gi-ti1">Xem giá tại</div>
+            <img class="location-icon3" alt="" src="./public/location@2x.png" />
+
+            <div class="ca-hng-gn-container1">
+              <p class="gi-mua-hng1">Cửa hàng</p>
+              <p class="gi-mua-hng1">gần bạn</p>
+            </div>
+            <div class="tra-cu-n-container1">
+              <p class="gi-mua-hng1">Tra cứu</p>
+              <p class="gi-mua-hng1">đơn hàng</p>
+            </div>
+            <div class="gi-hng1">
+              <p class="gi-mua-hng1">Giỏ</p>
+              <p class="gi-mua-hng1">hàng</p>
+            </div>
+            <img
+              class="in-transit-icon1"
+              alt=""
+              src="./public/in-transit@2x.png"
+            />
+
+            <img
+              class="shopping-bag-icon1"
+              alt=""
+              src="./public/shopping-bag@2x.png"
+            />
+
+            <div class="rectangle-parent9" id="groupContainer">
+              <div class="group-child20"></div>
+              <img
+                class="customer-icon1"
+                alt=""
+                src="./public/customer@2x.png"
+              />
+
+              <div class="ng-nhp2">Đăng nhập</div>
+            </div>
+            <img class="header-child7" alt="" src="./public/vector-1.svg" />
+
+            <img class="menu-icon1" alt="" src="./public/menu.svg" />
+          </div>
+          <img
+            class="group-child21"
+            alt=""
+            src="./public/group-3.svg"
+            id="group"
+          />
+        </div>
+      </div>
+      <div class="giohang-child">
+        <div class="rectangle-parent10">
+          <div class="group-child22"></div>
+          <div class="tm-tnh">Tạm tính</div>
+          <div class="div">2.290.000</div>
+          <div class="group-child23"></div>
+          <b class="mua-ngay-1">Mua ngay (1)</b>
+        </div>
+      </div>
+      <div class="giohang-inner1">
+        <div class="rectangle-parent11">
+          <div class="group-child24"></div>
+          <b class="gi-hng2">Giỏ hàng</b>
+          <div class="gi-hng-ca">Giỏ hàng của bạn</div>
+          <img
+            class="arrow-icon"
+            alt=""
+            src="./public/arrow-1.svg"
+            id="arrowIcon"
+          />
+
+          <div class="chn-tt-c">Chọn tất cả</div>
+          <div class="group-child25"></div>
+          <div class="group-wrapper">
+            <div class="rectangle-parent12">
+              <div class="group-child26"></div>
+              <div class="group-child27"></div>
+              <img class="group-child28" alt="" src="./public/vector-18.svg" />
+
+              <div class="chn-khuyn-mi">Chọn khuyến mãi</div>
+            </div>
+          </div>
+          <div class="group-child29"></div>
+          <div class="div1">2.290.000₫</div>
+          <div class="div2">2.290.000₫</div>
+          <div class="group-child30"></div>
+          <b class="infinix-hot-40i">Infinix Hot 40i 4GB 128GB</b>
+          <img
+            class="group-child31"
+            alt=""
+            src="./public/rectangle-84@2x.png"
+          />
+
+          <img class="waste-icon" alt="" src="./public/waste@2x.png" />
+
+          <div class="div3">1</div>
+          <div class="group-child32"></div>
+          <div class="div4">-</div>
+          <div class="group-child33"></div>
+          <div class="div5">+</div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var groupContainer = document.getElementById("groupContainer");
+      if (groupContainer) {
+        groupContainer.addEventListener("click", function (e) {
+          window.location.href = "./ng-nhp.html";
+        });
+      }
+      
+      var group = document.getElementById("group");
+      if (group) {
+        group.addEventListener("click", function (e) {
+          window.location.href = "./trangchu.html";
+        });
+      }
+      
+      var arrowIcon = document.getElementById("arrowIcon");
+      if (arrowIcon) {
+        arrowIcon.addEventListener("click", function (e) {
+          window.location.href = "./trangchu.html";
+        });
+      }
+      </script>
+  </body>
+</html>

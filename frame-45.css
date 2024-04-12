@@ -1,0 +1,15 @@
+.qun-mt-khu {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 61px);
+  font-weight: 600;
+}
+.qun-mt-khu-parent {
+  width: 100%;
+  position: relative;
+  height: 18px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-600);
+  font-family: var(--font-inter);
+}

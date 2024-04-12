@@ -1,0 +1,15 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="24" height="24" fill="url(#pattern0_6_153)"/>
+<g clip-path="url(#clip0_6_153)">
+<path d="M9.25 17.25L9.75 17.75C10.9925 16.5075 13.0075 16.5075 14.25 17.75L14.75 17.25C13.2325 15.7325 10.77 15.7325 9.25 17.25ZM11.25 19.25L12 20L12.75 19.25C12.3375 18.835 11.665 18.835 11.25 19.25ZM10.25 18.25L10.75 18.75C11.44 18.06 12.56 18.06 13.25 18.75L13.75 18.25C12.785 17.285 11.2175 17.285 10.25 18.25Z" fill="black"/>
+</g>
+<defs>
+<pattern id="pattern0_6_153" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_6_153" transform="scale(0.0416667)"/>
+</pattern>
+<clipPath id="clip0_6_153">
+<rect width="6" height="6" fill="white" transform="translate(9 15)"/>
+</clipPath>
+<image id="image0_6_153" width="24" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAqElEQVR4nO3SsQnCQBhA4U8RG8HW2hncwM7aDVxAsLF1BQewcwY7N3ABN7AVLATRs7lACCbGGLAwD15z3L2fO45/YxGtnRZWCNE12nXFO9ik4olbdOOeZO1jeti9iCfu0a86YIBDQTwxvac0QxxLxLOWYoRThXiIZwsZ41wxHnDBJC8+xfWLeIjeMMvG57jXEA/RB5Z5N/k2/pafDMijGaB5ot/8ogZpntdW2Pc7a7zXAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>

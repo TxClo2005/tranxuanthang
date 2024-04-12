@@ -1,0 +1,1525 @@
+.cui-tun,
+.hot-sale {
+  position: absolute;
+  top: 55px;
+  font-weight: 900;
+  display: inline-block;
+  width: 675px;
+  height: 64px;
+}
+.cui-tun {
+  left: 665px;
+  -webkit-text-stroke: 2px #fff;
+}
+.hot-sale {
+  left: 357px;
+  color: var(--color-white);
+}
+.local-fire-department {
+  position: absolute;
+  top: 47px;
+  left: 279px;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+.frame-child {
+  top: 83px;
+  left: 20px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 239px;
+  height: 362px;
+}
+.frame-child,
+.frame-inner,
+.frame-item,
+.rectangle-div {
+  position: absolute;
+  border-radius: var(--br-mini);
+}
+.frame-item {
+  top: 84px;
+  left: 21px;
+  width: 237px;
+  height: 237px;
+  object-fit: cover;
+}
+.frame-inner,
+.rectangle-div {
+  top: 83px;
+  left: 528px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 239px;
+  height: 362px;
+}
+.rectangle-div {
+  left: 273px;
+}
+.blank-line,
+.p {
+  margin: 0;
+}
+.p {
+  white-space: pre-wrap;
+}
+.samsung-galaxy-s23-container1 {
+  width: 100%;
+}
+.samsung-galaxy-s23-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 121.1%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 210px;
+}
+.group-child {
+  position: absolute;
+  top: 62.5px;
+  left: 104.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 86px;
+  height: 1px;
+}
+.group-item,
+.samsung-galaxy-s23-ultra-8gb-2-parent {
+  position: absolute;
+  top: 340px;
+  left: 291px;
+  width: 210px;
+  height: 72px;
+}
+.group-item {
+  top: 62.5px;
+  left: 102.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 82px;
+  height: 1px;
+}
+.smart-tivi-samsung-crystal-uhd-parent {
+  position: absolute;
+  top: 340px;
+  left: 542px;
+  width: 210px;
+  height: 72px;
+}
+.frame-child1,
+.group-inner {
+  position: absolute;
+  box-sizing: border-box;
+}
+.frame-child1 {
+  top: 83px;
+  left: 781px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  width: 239px;
+  height: 362px;
+}
+.group-inner {
+  top: 62.5px;
+  left: 104.5px;
+  border-top: 1px solid var(--color-black);
+  width: 85px;
+  height: 1px;
+}
+.frame-child2,
+.samsung-galaxy-tab-s9-ultra-12-parent {
+  position: absolute;
+  top: 340px;
+  left: 795px;
+  width: 210px;
+  height: 72px;
+}
+.frame-child2 {
+  top: 83px;
+  left: 1038px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 239px;
+  height: 362px;
+}
+.frame-child3,
+.samsung-galaxy-z-flip5-512gb-1-parent {
+  position: absolute;
+  top: 340px;
+  left: 1052px;
+  width: 210px;
+  height: 72px;
+}
+.frame-child3 {
+  top: 78px;
+  left: 15px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--color-red-200);
+  width: 95px;
+  height: 43px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 84px;
+  left: 529px;
+  border-radius: var(--br-mini);
+  width: 237px;
+  height: 237px;
+  object-fit: cover;
+}
+.frame-child4 {
+  position: absolute;
+  top: 78px;
+  left: 523px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--color-red-200);
+  width: 95px;
+  height: 43px;
+}
+.frame-child5 {
+  position: absolute;
+  top: 84px;
+  left: 274px;
+  border-radius: var(--br-mini);
+  width: 237px;
+  height: 237px;
+  object-fit: cover;
+}
+.frame-child6 {
+  position: absolute;
+  top: 78px;
+  left: 270px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--color-red-200);
+  width: 95px;
+  height: 43px;
+}
+.frame-child7 {
+  position: absolute;
+  top: 84px;
+  left: 782px;
+  border-radius: var(--br-mini);
+  width: 237px;
+  height: 237px;
+  object-fit: cover;
+}
+.frame-child8 {
+  position: absolute;
+  top: 78px;
+  left: 778px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--color-red-200);
+  width: 95px;
+  height: 43px;
+}
+.frame-child9 {
+  position: absolute;
+  top: 84px;
+  left: 1039px;
+  border-radius: var(--br-mini);
+  width: 237px;
+  height: 237px;
+  object-fit: cover;
+}
+.frame-child10 {
+  position: absolute;
+  top: 78px;
+  left: 1035px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--color-red-200);
+  width: 95px;
+  height: 43px;
+}
+.gim-16,
+.gim-24,
+.gim-31,
+.gim-36,
+.gim-47 {
+  position: absolute;
+  top: 92px;
+  left: 24px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 77px;
+  height: 15px;
+}
+.gim-24,
+.gim-31,
+.gim-36,
+.gim-47 {
+  left: 532px;
+}
+.gim-24,
+.gim-31,
+.gim-36 {
+  left: 279px;
+}
+.gim-31,
+.gim-36 {
+  left: 787px;
+}
+.gim-36 {
+  left: 1044px;
+}
+.frame-child11 {
+  position: absolute;
+  top: 239px;
+  left: 1240px;
+  background-color: var(--color-gainsboro-200);
+  width: 50px;
+  height: 50px;
+}
+.vector-icon {
+  position: absolute;
+  top: 252px;
+  left: 1260px;
+  width: 10px;
+  height: 24px;
+  object-fit: contain;
+}
+.frame-child12 {
+  position: absolute;
+  top: 289px;
+  left: 50px;
+  background-color: var(--color-gainsboro-200);
+  width: 50px;
+  height: 50px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.frame-child13 {
+  position: absolute;
+  top: 252px;
+  left: 20px;
+  width: 10px;
+  height: 24px;
+  object-fit: contain;
+}
+.group-child1 {
+  position: absolute;
+  top: 62.5px;
+  left: 108.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 85px;
+  height: 1px;
+}
+.samsung-galaxy-s24-ultra-12gb-parent {
+  position: absolute;
+  top: 340px;
+  left: 34px;
+  width: 210px;
+  height: 72px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 91px;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 1290px;
+  height: 460px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.cui-tun-parent,
+.trangchu-inner {
+  position: absolute;
+  width: 1290px;
+  height: 551px;
+}
+.cui-tun-parent {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-hotpink);
+}
+.trangchu-inner {
+  top: 468px;
+  left: 111px;
+  font-size: var(--font-size-41xl);
+  color: transparent;
+}
+.in-thoi {
+  position: absolute;
+  top: 23px;
+  left: 15px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 439px;
+  height: 47px;
+  cursor: pointer;
+}
+.frame-child30 {
+  position: absolute;
+  top: 83px;
+  left: 532px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 239px;
+  height: 362px;
+}
+.frame-child31,
+.samsung-galaxy-z-flip5-512gb-1-group {
+  position: absolute;
+  top: 340px;
+  left: 546px;
+  width: 210px;
+  height: 72px;
+}
+.frame-child31 {
+  top: 84px;
+  left: 533px;
+  border-radius: var(--br-mini);
+  width: 237px;
+  height: 237px;
+  object-fit: cover;
+}
+.frame-child32 {
+  position: absolute;
+  top: 78px;
+  left: 529px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--color-red-200);
+  width: 95px;
+  height: 43px;
+}
+.gim-361 {
+  position: absolute;
+  top: 92px;
+  left: 538px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 77px;
+  height: 15px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 1290px;
+  height: 460px;
+}
+.laptop {
+  position: absolute;
+  top: 23px;
+  left: 15px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 439px;
+  height: 47px;
+}
+.group-child7 {
+  position: absolute;
+  top: 80.5px;
+  left: 104.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 85px;
+  height: 1px;
+}
+.apple-macbook-air-m1-256gb-c-parent {
+  position: absolute;
+  top: 334px;
+  left: 34px;
+  width: 210px;
+  height: 90px;
+}
+.group-child9,
+.laptop-lenovo-yoga-duet-7-13it-parent {
+  position: absolute;
+  top: 334px;
+  left: 288px;
+  width: 210px;
+  height: 90px;
+}
+.group-child9 {
+  top: 80.5px;
+  left: 110.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 85px;
+  height: 1px;
+}
+.laptop-asus-zenbook-14-oled-um-parent {
+  position: absolute;
+  top: 334px;
+  left: 542px;
+  width: 210px;
+  height: 90px;
+}
+.apple-macbook-air-m2-2022-8gb-parent,
+.laptop-asus-vivobook-go-14-e14-parent {
+  position: absolute;
+  top: 334px;
+  left: 795px;
+  width: 210px;
+  height: 90px;
+}
+.laptop-asus-vivobook-go-14-e14-parent {
+  left: 1055px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 460px;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 1290px;
+  height: 460px;
+}
+.group-child12 {
+  position: absolute;
+  top: 80.5px;
+  left: 104.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 75px;
+  height: 1px;
+}
+.tivi-xiaomi-a-32-inch-hd-3990-parent,
+.tivi-xiaomi-a-pro-55-inch-4k-8-parent {
+  position: absolute;
+  top: 338px;
+  left: 34px;
+  width: 210px;
+  height: 90px;
+}
+.tivi-xiaomi-a-pro-55-inch-4k-8-parent {
+  left: 287px;
+}
+.group-child15,
+.smart-tivi-coocaa-fhd-43-inch-parent {
+  position: absolute;
+  top: 338px;
+  left: 540px;
+  width: 210px;
+  height: 90px;
+}
+.group-child15 {
+  top: 80.5px;
+  left: 104.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 81px;
+  height: 1px;
+}
+.group-child16,
+.smart-tivi-lg-uhd-43-inch-43uq-parent {
+  position: absolute;
+  top: 338px;
+  left: 795px;
+  width: 210px;
+  height: 90px;
+}
+.group-child16 {
+  top: 80.5px;
+  left: 107.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 85px;
+  height: 1px;
+}
+.smart-tivi-di-ng-lg-stanby-m-parent {
+  position: absolute;
+  top: 338px;
+  left: 1052px;
+  width: 210px;
+  height: 90px;
+}
+.frame-div,
+.frame-parent {
+  position: absolute;
+  width: 1290px;
+}
+.frame-div {
+  top: 920px;
+  left: 0;
+  border-radius: var(--br-mini);
+  height: 460px;
+}
+.frame-parent {
+  top: 1019px;
+  left: 111px;
+  height: 1380px;
+  font-size: var(--font-size-mini);
+}
+.frame-child72 {
+  position: absolute;
+  top: 84px;
+  left: 527px;
+  border-radius: var(--br-mini);
+  width: 237px;
+  height: 237px;
+  object-fit: cover;
+}
+.frame-child73 {
+  position: absolute;
+  top: 228px;
+  left: 50px;
+  background-color: var(--color-gainsboro-200);
+  width: 50px;
+  height: 50px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.frame-child74 {
+  position: absolute;
+  top: 191px;
+  left: 20px;
+  width: 10px;
+  height: 24px;
+  object-fit: contain;
+}
+.ph-kin {
+  position: absolute;
+  top: 23px;
+  left: 15px;
+  display: inline-block;
+  width: 439px;
+  height: 47px;
+}
+.frame-child76,
+.frame-child77 {
+  position: absolute;
+  top: 84px;
+  left: 780px;
+  border-radius: var(--br-mini);
+  width: 237px;
+  height: 237px;
+  object-fit: cover;
+}
+.frame-child77 {
+  left: 1033px;
+}
+.frame-child78 {
+  position: absolute;
+  top: 178px;
+  left: 1240px;
+  background-color: var(--color-gainsboro-200);
+  width: 50px;
+  height: 50px;
+}
+.frame-child79 {
+  position: absolute;
+  top: 191px;
+  left: 1260px;
+  width: 10px;
+  height: 24px;
+  object-fit: contain;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 1290px;
+  height: 321px;
+}
+.frame-child100,
+.frame-child98,
+.frame-child99,
+.rectangle-parent2,
+.rectangle-parent3 {
+  position: absolute;
+  top: 321px;
+  left: 2px;
+  border-radius: var(--br-mini);
+  width: 1290px;
+  height: 321px;
+}
+.frame-child100,
+.frame-child98,
+.frame-child99,
+.rectangle-parent3 {
+  top: 642px;
+}
+.frame-child100,
+.frame-child98,
+.frame-child99 {
+  top: 84px;
+  left: 21px;
+  width: 407px;
+  height: 220px;
+  object-fit: cover;
+}
+.frame-child100,
+.frame-child99 {
+  left: 442px;
+}
+.frame-child100 {
+  left: 863px;
+}
+.frame-child101 {
+  position: absolute;
+  top: 219px;
+  left: 50px;
+  background-color: var(--color-gainsboro-200);
+  width: 50px;
+  height: 50px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.frame-child102 {
+  position: absolute;
+  top: 182px;
+  left: 20px;
+  width: 10px;
+  height: 24px;
+  object-fit: contain;
+}
+.frame-child103 {
+  position: absolute;
+  top: 169px;
+  left: 1240px;
+  background-color: var(--color-gainsboro-200);
+  width: 50px;
+  height: 50px;
+}
+.frame-child104 {
+  position: absolute;
+  top: 182px;
+  left: 1260px;
+  width: 10px;
+  height: 24px;
+  object-fit: contain;
+}
+.rectangle-parent4,
+.rectangle-parent5 {
+  position: absolute;
+  top: 963px;
+  left: 2px;
+  border-radius: var(--br-mini);
+  width: 1290px;
+  height: 321px;
+}
+.rectangle-parent5 {
+  top: 1284px;
+  left: 0;
+}
+.frame-group {
+  position: absolute;
+  top: 2479px;
+  left: 113px;
+  width: 1292px;
+  height: 1605px;
+  font-size: var(--font-size-21xl);
+}
+.header-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-firebrick-100);
+  width: 1512px;
+  height: 50px;
+}
+.header-inner,
+.header-item {
+  position: absolute;
+  top: 6px;
+  left: 293px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-red-200);
+  width: 105px;
+  height: 40px;
+}
+.header-inner {
+  left: 409px;
+  width: 140px;
+}
+.location-icon {
+  position: absolute;
+  top: 10px;
+  left: 414px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.header-child1 {
+  position: absolute;
+  top: 6px;
+  left: 562px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  width: 333px;
+  height: 40px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 34.8%;
+  width: 1.16%;
+  top: 36%;
+  right: 60.95%;
+  bottom: 29.2%;
+  left: 37.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bn-cn-tm {
+  position: absolute;
+  top: 18px;
+  left: 603px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 135px;
+  height: 14px;
+}
+.local-phone-icon {
+  position: absolute;
+  top: 8px;
+  left: 907px;
+  width: 35px;
+  height: 34px;
+  overflow: hidden;
+}
+.danh-mc,
+.gi-mua-hng-container,
+.nng,
+.xem-gi-ti {
+  position: absolute;
+  top: 9px;
+  left: 941px;
+  font-weight: 500;
+  display: inline-block;
+  width: 138px;
+  height: 31px;
+}
+.danh-mc,
+.nng,
+.xem-gi-ti {
+  top: 18px;
+  left: 293px;
+  text-align: center;
+}
+.nng,
+.xem-gi-ti {
+  top: 27px;
+  left: 410px;
+  height: 18px;
+}
+.xem-gi-ti {
+  top: 11px;
+  font-size: var(--font-size-3xs);
+  height: 31px;
+}
+.location-icon1 {
+  position: absolute;
+  top: 7px;
+  left: 1037px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.ca-hng-gn-container,
+.tra-cu-n-container {
+  position: absolute;
+  top: 8px;
+  left: 1071px;
+  font-weight: 500;
+  display: inline-block;
+  width: 63px;
+  height: 36px;
+}
+.tra-cu-n-container {
+  top: 9px;
+  left: 1189px;
+}
+.in-transit-icon {
+  position: absolute;
+  top: 6px;
+  left: 1148px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.gi-hng {
+  position: absolute;
+  top: 3px;
+  left: 34px;
+  font-weight: 500;
+  display: inline-block;
+  width: 63px;
+  height: 36px;
+}
+.shopping-bag-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.gi-hng-parent {
+  position: absolute;
+  top: 6px;
+  left: 1259px;
+  width: 97px;
+  height: 39px;
+  cursor: pointer;
+}
+.group-child17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-red-200);
+  width: 59px;
+  height: 40px;
+}
+.customer-icon {
+  position: absolute;
+  top: 1px;
+  left: 15px;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+}
+.ng-nhp {
+  position: absolute;
+  top: 28px;
+  left: 4px;
+  font-weight: 900;
+  display: inline-block;
+  width: 50px;
+  height: 12px;
+}
+.group-div {
+  position: absolute;
+  top: 5px;
+  left: 1340px;
+  width: 59px;
+  height: 40px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-6xs);
+}
+.header-child2,
+.menu-icon {
+  position: absolute;
+  top: 15.5px;
+  left: 528px;
+  width: 11px;
+  height: 5px;
+}
+.menu-icon {
+  top: 9px;
+  left: 297px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.group-icon {
+  position: absolute;
+  top: 6px;
+  left: 111px;
+  width: 124.2px;
+  height: 40px;
+}
+.header-parent,
+.trangchu-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 50px;
+}
+.trangchu-child {
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+}
+.dch-v-v,
+.kt-ni-vi,
+.thng-tin-v,
+.tng-i-h-container {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+  width: 294px;
+  height: 35px;
+}
+.tng-i-h-container {
+  top: 1px;
+  left: 0;
+  text-align: center;
+}
+.dch-v-v,
+.kt-ni-vi,
+.thng-tin-v {
+  top: 0;
+  left: 334px;
+}
+.dch-v-v,
+.kt-ni-vi {
+  left: 664px;
+  width: 317px;
+}
+.kt-ni-vi {
+  left: 994px;
+}
+.phng-thc-thanh {
+  margin: 0;
+  font-weight: 500;
+}
+.blank-line31 {
+  margin: 0;
+  font-size: var(--font-size-21xl);
+}
+.b,
+.phng-thc-thanh-container {
+  position: absolute;
+  top: 108px;
+  left: 4px;
+  display: inline-block;
+  width: 294px;
+  height: 35px;
+  font-size: var(--font-size-6xl);
+}
+.b {
+  top: 44px;
+  left: 25px;
+  font-size: var(--font-size-21xl);
+  text-align: center;
+  width: 230px;
+  height: 53px;
+}
+.image-3-icon,
+.image-4-icon,
+.image-5-icon,
+.image-6-icon {
+  position: absolute;
+  top: 154px;
+  left: 11px;
+  border-radius: var(--br-10xs);
+  width: 62.9px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-4-icon,
+.image-5-icon,
+.image-6-icon {
+  left: 81px;
+  width: 66.3px;
+}
+.image-5-icon,
+.image-6-icon {
+  left: 154px;
+  width: 62.7px;
+}
+.image-6-icon {
+  left: 224px;
+  width: 66.3px;
+}
+.doanh-nghip-u-container,
+.mua-hng-v-container {
+  position: absolute;
+  top: 46px;
+  left: 346px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  display: inline-block;
+  width: 282px;
+  height: 206px;
+}
+.doanh-nghip-u-container {
+  left: 678px;
+}
+.image-10-icon,
+.image-11-icon,
+.image-7-icon,
+.image-8-icon,
+.image-9-icon {
+  position: absolute;
+  top: 46px;
+  left: 996px;
+  width: 55px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-10-icon,
+.image-11-icon,
+.image-8-icon,
+.image-9-icon {
+  left: 1056px;
+}
+.image-10-icon,
+.image-11-icon,
+.image-9-icon {
+  left: 1116px;
+}
+.image-10-icon,
+.image-11-icon {
+  left: 1176px;
+}
+.image-11-icon {
+  left: 1236px;
+}
+.frame-child112,
+.line-icon {
+  position: absolute;
+  left: 996px;
+}
+.line-icon {
+  top: 110px;
+  max-height: 100%;
+  width: 296px;
+}
+.frame-child112 {
+  top: 144px;
+  width: 300px;
+  height: 97px;
+}
+.cng-ty-devicer-container {
+  position: absolute;
+  top: 344px;
+  left: calc(50% - 600.5px);
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  color: var(--color-gray-300);
+  text-align: center;
+  width: 1188px;
+  height: 27px;
+}
+.image-12-icon {
+  position: absolute;
+  top: 371px;
+  left: calc(50% - 73.5px);
+  width: 133.3px;
+  height: 50px;
+  object-fit: cover;
+}
+.tng-i-h-tr-min-ph-parent {
+  position: absolute;
+  top: 4179px;
+  left: 109px;
+  width: 1311px;
+  height: 421px;
+}
+.frame-child113,
+.frame-child114 {
+  position: absolute;
+  top: 1px;
+  left: 4px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 287px;
+  height: 400px;
+}
+.frame-child114 {
+  
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  height: 40px;
+}
+.frame-child115 {
+  position: absolute;
+  top: 16px;
+  left: 264px;
+  width: 5px;
+  height: 11px;
+  object-fit: contain;
+}
+.frame-child116,
+.frame-child117,
+.frame-child118,
+.frame-child119 {
+  position: absolute;
+  top: 81px;
+  left: 4px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 287px;
+  height: 40px;
+}
+.frame-child117,
+.frame-child118,
+.frame-child119 {
+  top: 161px;
+}
+.frame-child118,
+.frame-child119 {
+  top: 281px;
+}
+.frame-child119 {
+  top: 41px;
+}
+.frame-child120,
+.frame-child121 {
+  position: absolute;
+  top: 55px;
+  left: 264px;
+  width: 5px;
+  height: 11px;
+  object-fit: contain;
+}
+.frame-child121 {
+  top: 97px;
+  left: 265px;
+}
+.frame-child122 {
+  position: absolute;
+  top: 121px;
+  left: 4px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 287px;
+  height: 40px;
+}
+.frame-child123,
+.frame-child124 {
+  position: absolute;
+  top: 136px;
+  left: 266px;
+  width: 5px;
+  height: 11px;
+  object-fit: contain;
+}
+.frame-child124 {
+  top: 176px;
+}
+.frame-child125,
+.frame-child126 {
+  position: absolute;
+  top: 241px;
+  left: 4px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 287px;
+  height: 40px;
+}
+.frame-child126 {
+  top: 201px;
+}
+.frame-child127,
+.frame-child128,
+.frame-child129 {
+  position: absolute;
+  top: 215px;
+  left: 266px;
+  width: 5px;
+  height: 11px;
+  object-fit: contain;
+}
+.frame-child128,
+.frame-child129 {
+  top: 255px;
+}
+.frame-child129 {
+  top: 295px;
+}
+.frame-child130 {
+  position: absolute;
+  top: 321px;
+  left: 4px;
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 287px;
+  height: 40px;
+}
+.frame-child131 {
+  position: absolute;
+  top: 335px;
+  left: 266px;
+  width: 5px;
+  height: 11px;
+  object-fit: contain;
+}
+.frame-child132 {
+  position: absolute;
+  top: 361px;
+  left: 4px;
+  border-radius: 0 0 var(--br-mini) var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 287px;
+  height: 40px;
+}
+.frame-child133 {
+  position: absolute;
+  top: 375px;
+  left: 266px;
+  width: 5px;
+  height: 11px;
+  object-fit: contain;
+}
+.in-thoi1,
+.m-thanh {
+  position: absolute;
+  left: 47px;
+  font-weight: 500;
+  display: inline-block;
+  width: 188px;
+  height: 18px;
+}
+.in-thoi1 {
+  top: 11px;
+  cursor: pointer;
+}
+.m-thanh {
+  top: 52px;
+}
+.gia-dng-smarthome,
+.hng-c1,
+.khuyn-mi,
+.ng-h-camera,
+.pc-laptop,
+.ph-kin1,
+.thu-c-i,
+.tv-mn-hnh {
+  position: absolute;
+  top: 92px;
+  left: 47px;
+  font-weight: 500;
+  display: inline-block;
+  width: 188px;
+  height: 18px;
+}
+.gia-dng-smarthome,
+.hng-c1,
+.khuyn-mi,
+.pc-laptop,
+.ph-kin1,
+.thu-c-i,
+.tv-mn-hnh {
+  top: 132px;
+  left: 46px;
+}
+.hng-c1,
+.khuyn-mi,
+.pc-laptop,
+.ph-kin1,
+.thu-c-i,
+.tv-mn-hnh {
+  top: 172px;
+}
+.hng-c1,
+.khuyn-mi,
+.pc-laptop,
+.thu-c-i,
+.tv-mn-hnh {
+  top: 212px;
+}
+.hng-c1,
+.khuyn-mi,
+.thu-c-i,
+.tv-mn-hnh {
+  top: 252px;
+}
+.hng-c1,
+.khuyn-mi,
+.thu-c-i {
+  top: 292px;
+}
+.hng-c1,
+.khuyn-mi {
+  top: 332px;
+}
+.khuyn-mi {
+  top: 372px;
+}
+.earbud-headphones-icon,
+.iphone-14-icon,
+.usb-off-icon {
+  position: absolute;
+  top: 9px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.earbud-headphones-icon,
+.usb-off-icon {
+  top: 48px;
+}
+.usb-off-icon {
+  top: 170px;
+}
+.workstation-icon {
+  top: 209px;
+  left: 15px;
+  object-fit: cover;
+}
+.smarthome-icon,
+.tv-icon,
+.workstation-icon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+.tv-icon {
+  top: 249px;
+  left: 15px;
+  overflow: hidden;
+}
+.smarthome-icon {
+  top: 130px;
+  left: 16px;
+}
+.iphone-15-icon,
+.refresh-icon {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  width: 12px;
+  height: 11px;
+  object-fit: cover;
+}
+.refresh-icon {
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.iphone-15-icon1,
+.iphone-15-parent {
+  position: absolute;
+  top: 289px;
+  left: 15px;
+  width: 24px;
+  height: 24px;
+}
+.iphone-15-icon1 {
+  top: 6px;
+  left: 6px;
+  width: 12px;
+  height: 12px;
+  object-fit: cover;
+}
+.iphone-15-group,
+.speaker-notes-icon {
+  position: absolute;
+  top: 329px;
+  left: 16px;
+  width: 24px;
+  height: 24px;
+}
+.speaker-notes-icon {
+  top: 369px;
+  overflow: hidden;
+}
+.frame-child134,
+.frame-child135 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-mini);
+}
+.frame-child134 {
+  left: 303px;
+  width: 797px;
+  height: 401px;
+  object-fit: cover;
+}
+.frame-child135 {
+  width: 180px;
+}
+.frame-child135,
+.frame-child136,
+.frame-child137 {
+  left: 0;
+  height: 100px;
+  object-fit: cover;
+}
+.frame-child136 {
+  position: absolute;
+  top: 100px;
+  border-radius: var(--br-mini);
+  width: 180px;
+}
+.frame-child137 {
+  top: 200px;
+}
+.frame-child137,
+.frame-child138,
+.rectangle-parent7 {
+  position: absolute;
+  border-radius: var(--br-mini);
+  width: 180px;
+}
+.frame-child138 {
+  top: 300px;
+  left: 0;
+  height: 100px;
+  object-fit: cover;
+}
+.rectangle-parent7 {
+  top: 1px;
+  left: 1112px;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  height: 400px;
+  overflow: hidden;
+}
+.apple-watch-icon {
+  position: absolute;
+  top: 89px;
+  left: 0;
+  width: 56px;
+  height: 24px;
+  object-fit: cover;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 57px;
+  left: 107px;
+  width: 1292px;
+  height: 401px;
+  font-size: var(--font-size-base);
+}
+.group-child18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1290px;
+  height: 50px;
+}
+.group-child19 {
+  position: absolute;
+  top: 20px;
+  left: 685px;
+  width: 25px;
+  height: 10px;
+}
+.xem-thm {
+  position: absolute;
+  top: 13px;
+  left: 576px;
+  font-weight: 500;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 2414px;
+  left: 113px;
+  width: 1290px;
+  height: 50px;
+  color: var(--color-gray-400);
+}
+.trangchu {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4610px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

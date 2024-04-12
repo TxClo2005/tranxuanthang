@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./frame-42.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="bn-c-ti-khong-ng-nh-parent" id="frameContainer">
+      <div class="bn-c-container">
+        <span>Bạn đã có tài khoảng ? </span>
+        <span class="ng-nhp-ngay">Đăng nhập ngay</span>
+      </div>
+    </div>
+
+    <script>
+      var frameContainer = document.getElementById("frameContainer");
+      if (frameContainer) {
+        frameContainer.addEventListener("click", function (e) {
+          window.location.href = "./ng-nhp.html";
+        });
+      }
+      </script>
+  </body>
+</html>
